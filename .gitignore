@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/
+output/
+build/
+dist/
+.validation/
+testdb/
+log/
+*.log
+.playwright-cli/
+*.spec
+DM-Migration*.exe
+bin/
